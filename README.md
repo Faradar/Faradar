@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomas Echeveste Arteaga</h1>
+<h1 align="center">Hi 👋, I'm Tom&aacute;s Echeveste Arteaga</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Frontend development at Platzi**
