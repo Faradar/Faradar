@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom&aacute;s Echeveste Arteaga</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Frontend development at [Platzi](https://platzi.com/web/)**
+- 🌱 I’m currently learning **Fullstack development at [Coderhouse](https://www.coderhouse.com/online/carrera-online-desarrollo-fullstack)**
 
 - 👨‍💻 All of my latest projects are available [here](https://github.com/Faradar/latestProjects) and some of my older projects are available [here](https://github.com/Faradar/Programacion_Basica_Ubuntu)
 
