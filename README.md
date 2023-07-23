@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **echeveste.t@gmail.com**
 
-- 👨‍💻 My latest project is available [here](https://github.com/Faradar/Helion-Website).
+- 👨‍💻 My latest project is available [here](https://github.com/Faradar/Helion-Website)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
