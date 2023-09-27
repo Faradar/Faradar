@@ -15,7 +15,7 @@
 
 ### Recent Collaborations
 
-- **No Country** 🌐
+- **[No Country](https://www.nocountry.tech/)** 🌐
   - Collaborated with a talented team on a unique web project.
   - Responsible for frontend development, including the footer, login and register pages.
   - Explore the project: [Comfy](https://no-country-comfy.vercel.app/)
