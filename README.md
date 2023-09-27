@@ -1,15 +1,26 @@
 <h1 align="center">Hi 👋, I'm Tomás Echeveste Arteaga</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Audiophile E-commerce Website](https://github.com/Faradar/Proyecto-Final-Echeveste-Arteaga)
-
 - 🌱 I’m currently learning **Fullstack development at [Coderhouse](https://www.coderhouse.com/online/carrera-online-desarrollo-fullstack)**
 
 - 📫 How to reach me **echeveste.t@gmail.com**
 
-- 👨‍💻 My latest projects are available [here](https://github.com/Faradar/Helion-Website) and [here](https://github.com/Faradar/PreEntrega3-Echeveste-Arteaga)
+### Latest Projects
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on **Audiophile E-commerce:** [Repository](https://github.com/Faradar/Proyecto-Final-Echeveste-Arteaga) - React and Bootstrap
+
+- **Helion Website:** [Repository](https://github.com/Faradar/Helion-Website) - HTML and SCSS
+
+- **BMI Calculator:** [Repository](https://github.com/Faradar/BMI-Calculator) - JavaScript
+
+### Recent Collaborations
+
+- **No Country** 🌐
+  - Collaborated with a talented team on a unique web project.
+  - Responsible for frontend development, including the footer, login and register pages.
+  - Explore the project: [Comfy](https://no-country-comfy.vercel.app/)
+
+<h3 align="left">Let's connect and collaborate on exciting projects!:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tomasecheveste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomasecheveste" height="30" width="40" /></a>
 </p>
