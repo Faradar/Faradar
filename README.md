@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tomás Echeveste Arteaga</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [BMI calculator](https://github.com/Faradar/PreEntrega3-Echeveste-Arteaga)
+- 🔭 I’m currently working on [Audiophile E-commerce Website](https://github.com/Faradar/Proyecto-Final-Echeveste-Arteaga)
 
 - 🌱 I’m currently learning **Fullstack development at [Coderhouse](https://www.coderhouse.com/online/carrera-online-desarrollo-fullstack)**
 
 - 📫 How to reach me **echeveste.t@gmail.com**
 
-- 👨‍💻 My latest project is available [here](https://github.com/Faradar/Helion-Website)
+- 👨‍💻 My latest projects are available [here](https://github.com/Faradar/Helion-Website) and [here](https://github.com/Faradar/PreEntrega3-Echeveste-Arteaga)
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
