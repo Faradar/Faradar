@@ -7,7 +7,7 @@
 
 ### Latest Projects
 
-- 🔭 I’m currently working on **Audiophile E-commerce:** [Repository](https://github.com/Faradar/Proyecto-Final-Echeveste-Arteaga) - React, Bootstrap and Firebase
+- 🔭 I’m currently working on **Audiophile E-commerce:** [Repository](https://github.com/Faradar/Proyecto-Final-Echeveste-Arteaga) - React (Vite), Bootstrap and Firebase
 
 - **Helion Website:** [Repository](https://github.com/Faradar/Helion-Website) - HTML and SCSS
 
@@ -16,8 +16,8 @@
 ### Recent Collaborations
 
 - **[No Country](https://www.nocountry.tech/)** 🌐
-  - Collaborated with a talented team on a unique web project.
-  - Responsible for frontend development, including the footer, login and register pages.
+  - Collaborated with a talented team on a unique web project
+  - Responsible for frontend development, including the footer, login and register pages - NextJs and Tailwind
   - Explore the project: [Comfy](https://no-country-comfy.vercel.app/)
 
 <h3 align="left">Let's connect and collaborate on exciting projects!:</h3>
