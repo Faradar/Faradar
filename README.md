@@ -7,7 +7,7 @@
 
 ### Latest Projects
 
-- 🔭 I’m currently working on **Audiophile E-commerce:** [Repository](https://github.com/Faradar/Proyecto-Final-Echeveste-Arteaga) - React (Vite), Bootstrap and Firebase
+- 🔭 I’m currently working on **Audiophile E-commerce:** [Repository](https://github.com/Faradar/Audiophile) - React (Vite), Bootstrap and Firebase
 
 - **Helion Website:** [Repository](https://github.com/Faradar/Helion-Website) - HTML and SCSS
 
