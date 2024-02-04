@@ -15,6 +15,12 @@
 
 ### Recent Collaborations
 
+- **[Pa'l Alma](https://pal-alma.vercel.app/)** and **[Coderhouse](https://www.coderhouse.com/)** 🌐
+  - This project was conceived as a prize awarded for reaching the top 10 at Coderhouse, providing participants with the opportunity to apply their skills to a real and meaningful project.
+  - Responsible for frontend development, including the navbar, home and footer - NextJs and Tailwind
+  - Operated as a Team Leader, coordinating the tasks of the development team, ensuring smooth execution of the project.
+  - Explore the project: [Pa'l Alma](https://github.com/Faradar/Proyecto-Real-PAL-ALMA)
+
 - **[No Country](https://www.nocountry.tech/)** 🌐
   - Collaborated with a talented team on a unique web project
   - Responsible for frontend development, including the footer, login and register pages - NextJs and Tailwind
