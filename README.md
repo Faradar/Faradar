@@ -24,7 +24,7 @@
 - **[No Country](https://www.nocountry.tech/)** 🌐
   - Collaborated with a talented team on a unique web project
   - Responsible for frontend development, including the footer, login and register pages - NextJs and Tailwind
-  - Explore the project: [Comfy](https://no-country-comfy.vercel.app/)
+  - Explore the project: [Comfy](https://github.com/No-Country/c13-40-ft-java/)
 
 <h3 align="left">Let's connect and collaborate on exciting projects!:</h3>
 <p align="left">
