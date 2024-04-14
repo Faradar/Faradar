@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tomás Echeveste Arteaga</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate Frontend Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Fullstack development at [Coderhouse](https://www.coderhouse.com/online/carrera-online-desarrollo-fullstack)**
+- 🌱 I’m currently learning **SQL at [Coderhouse](https://www.coderhouse.com/ar/online/sql)**
 
 - 📫 How to reach me **echeveste.t@gmail.com**
 
 ### Latest Projects
 
-- 🔭 I’m currently working on **Audiophile E-commerce:** [Repository](https://github.com/Faradar/Audiophile) - React (Vite), Bootstrap and Firebase
+- **Backend Project:** [Repository](https://github.com/Faradar/Entrega-Final-Backend-Tomas-Echeveste-Arteaga) - NodeJS, Express, MongoDB, Mongoose, Handlebars, Websocket, MVC, Cookies, Session, Passport, JWT, Nodemailer, Swagger, Winston, Jest
+
+- **Audiophile E-commerce:** [Repository](https://github.com/Faradar/Audiophile) - React (Vite), Bootstrap and Firebase
 
 - **Helion Website:** [Repository](https://github.com/Faradar/Helion-Website) - HTML and SCSS
 
