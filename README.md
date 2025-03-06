@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomás Echeveste Arteaga</h1>
 <h3 align="center">A passionate Frontend Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **SQL at [Coderhouse](https://www.coderhouse.com/ar/online/sql)**
+- 🌱 I’m currently learning **Angular at [Coderhouse](https://www.coderhouse.com/ar/online/sql)**
 
 - 📫 How to reach me **echeveste.t@gmail.com**
 
